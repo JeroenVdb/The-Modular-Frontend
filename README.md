@@ -2,7 +2,10 @@
 
 ### Goal
 
-Extend your website with already existing modules (article detail, sileshow teaser, search)
+Extend your website with already existing modules (article detail, sileshow teaser, search).
+
+* Use Node 0.12
+* Don't npm install
 
 ### Examples
 
